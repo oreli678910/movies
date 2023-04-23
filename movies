@@ -1,0 +1,22 @@
+[  {    "id": 1,    "title": "Avengers: Endgame",    "director": "Anthony Russo, Joe Russo",    "release_date": "2019-04-26",    "rating": 8.4,    "genres": ["Action", "Adventure", "Drama"],
+    "image_link": "https://www.example.com/avengers-endgame.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Joker",
+    "director": "Todd Phillips",
+    "release_date": "2019-10-04",
+    "rating": 8.5,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "image_link": "https://www.example.com/joker.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "release_date": "2019-05-30",
+    "rating": 8.6,
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "image_link": "https://www.example.com/parasite.jpg"
+  }
+]
